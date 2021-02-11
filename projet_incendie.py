@@ -33,4 +33,4 @@ canvas = tk.Canvas(racine, bg=COULEUR_FOND, width=LARGEUR, height=HAUTEUR)
 canvas.grid(row=0)
 # boucle principal
 racine.mainloop()
-coucocu
+coucocu hp
