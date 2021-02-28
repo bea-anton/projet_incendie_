@@ -9,10 +9,13 @@
 ##############################################
 # import des librairies
 
-import tkinter as tkinter
+import tkinter as tk
 
 #############################################
-# constantes
+# CONSTANTES
+
+#############################################
+# variable globales
 
 COULEUR_FOND = "gray"
 LARGEUR = 1000
@@ -33,4 +36,3 @@ canvas = tk.Canvas(racine, bg=COULEUR_FOND, width=LARGEUR, height=HAUTEUR)
 canvas.grid(row=0)
 # boucle principal
 racine.mainloop()
-coucocu hp
